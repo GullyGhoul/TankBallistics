@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gulnara\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gulnara\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TankShellBallistics.401619661.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Gulnara\Documents\TankShellBallistics" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BulletPrefabBehaviour.cs" t="Include" />
+          <e p="DestroyParticle.cs" t="Include" />
+          <e p="PathDrawing.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerShooting.cs" t="Include" />
+          <e p="PlayerViewControl.cs" t="Include" />
+          <e p="ScopeColor.cs" t="Include" />
+          <e p="TurretRotation.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TankShellBallistics.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
